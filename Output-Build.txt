@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Part 4.5 intro to methods assignment, Configuration: Debug Any CPU ------
+1>  Part 4.5 intro to methods assignment -> X:\My Drive\ISC4U\Part 4\Part 4.5 intro to methods assignment\Part 4.5 intro to methods assignment\bin\Debug\Part 4.5 intro to methods assignment.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:01 AM and took 00.386 seconds ==========
